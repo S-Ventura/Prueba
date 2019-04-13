@@ -1,7 +1,7 @@
   program pruebagit
 
     implicit none
-    print*, 'Selene Nyan :3'
+    print*, 'Nyan :3'
     print*, 'Prueba'
 
 
